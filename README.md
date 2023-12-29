@@ -1,4 +1,4 @@
 # tempofiles
 
-- Hirdesh Kumar says that this is the amazing course.
+- Hirdesh Kumar says that this is an amazing course.
 - I love this course.
